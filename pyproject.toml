@@ -1,0 +1,13 @@
+[project]
+name = "rtc-painting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "convex>=0.7.0",
+    "pytest>=9.0.2",
+    "ruff>=0.14.11",
+    "textual>=7.2.0",
+    "ty>=0.0.11",
+]
